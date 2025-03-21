@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project demonstrates the use of the NVIDIA Performance Primitives (NPP) library with CUDA to perform image blurring. The goal is to leverage GPU acceleration for efficient image processing. This project is part of the **CUDA at Scale for the Enterprise** course and serves as a template to understand how to implement basic image processing operations using CUDA and NPP.
+This project demonstrates the use of the NVIDIA Performance Primitives (NPP) library with CUDA to perform image blurring. The goal is to leverage GPU acceleration for efficient image processing. This project is part of the **CUDA at Scale for the Enterprise** course and allows to understand how to implement basic image processing operations using CUDA and NPP.
 
 ## Code Organization
 
